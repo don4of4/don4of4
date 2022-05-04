@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a business leader and tech-nerd dedicated to delivering kickass products and solutions to customers. With over a decade in emerging technology, my passion is to deliver cloud technology to customers with the needed products and technology to make solutions faster to deploy and more effective in the face of historic labor shortages. Often found bridging gaps between business executives and the precious systems they oversee, I am ready and willing to jump down into the weeds when required, but capable of seeing (and communicating) the larger picture.
+I'm a business leader and tech-nerd dedicated to delivering kickass products to customers. With over a decade in emerging technology, my passion is to deliver cloud technology to customers with the needed products and technology to make solutions faster to deploy and more effective in the face of historic labor shortages. Often found bridging gaps between business executives and the precious systems they oversee, I am ready and willing to jump down into the weeds when required, but capable of seeing (and communicating) the larger picture.
 
 <!--
 **don4of4/don4of4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
